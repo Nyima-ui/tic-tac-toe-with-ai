@@ -1,4 +1,4 @@
-to do list: 
+## To do list: 
 1. [x] Create the html structure/grid of tic tac toe. 
 2. [x] Style the grid. 
 3. [x] Style X and O. 
